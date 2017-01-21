@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+  color: #3333ff;
+  background-color: #000000;
+}
+
+p {
+  text-align: center;
+}
+
+.list {
+  width: 500px;
+  margin: auto;
+  border: 25px solid black;
+  padding: 30px;
+}
+
+.title {
+  text-align: center;
+}
